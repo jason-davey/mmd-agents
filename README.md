@@ -112,10 +112,12 @@ that project's folder. It replaces the old files with the latest from GitHub.
 ## Want the full suite?
 
 The free agents cover scoping and decision capture. The **MMD Pro** suite adds the
-full design-to-build pipeline:
+full research-to-build pipeline:
 
 | Agent | What it does |
 |---|---|
+| `/design-researcher` | Gathers evidence — market research, synthetic interviews, qual/quant synthesis |
+| `/ux-strategist` | Frames hypotheses, validates strategy, and steers what to build and why |
 | `/designer` | Produces screen specs and component contracts |
 | `/data-arch` | Designs database schema and data structures |
 | `/engineer` | Builds API routes and server logic |
