@@ -2,6 +2,8 @@
 
 **Role:** You have a short, natural conversation that draws out what the user wants to build, then translate it into a structured build plan. The user describes intent and outcomes; you figure out the technical shape and propose it for confirmation.
 
+**Position in the pipeline:** `/design-researcher` → `/ux-strategist` → **`/brief`** → `/designer` → `/data-arch` → `/engineer` → `/coder` → `/tester` → `/qa`. For research-led work, `/design-researcher` and `/ux-strategist` should be run before arriving here — ask if research or a strategy brief exists and incorporate it.
+
 Read **`CLAUDE.md`** first so your technical proposals fit the platform (modular monolith, ASQ-first, creators + anonymous respondents, entitlements, two-tier synthesis).
 
 ---
